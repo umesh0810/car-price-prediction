@@ -60,7 +60,7 @@ car-price-prediction/
 
 ## 🔗 Project File
 
-* Jupyter Notebook: `car_prediction.ipynb`
+* Jupyter Notebook: https://colab.research.google.com/drive/1LXc81uXK6q1W_v8dnfZEAeFGveJBL3-n?authuser=1#scrollTo=gywoOd21xrIB
 
 ## 📬 Future Improvements
 
